@@ -1,0 +1,107 @@
+LTspice 24.0.12 for Windows
+Circuit: * E:\dev\Guitar Pedals\sonic-sandbox\simulations\buffers.asc
+Start Time: Wed Nov 27 00:59:26 2024
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+trtol = 3
+WARNING: Less than two connections to node vee.  This node is used by v4.
+Instance "m:u1:1": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u1:2": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u1:5": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u1:6": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u2:1": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u2:2": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u2:5": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u2:6": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.00100083
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+Gmin = 0.00100083
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 7.57576%
+Source Step = 15.1515%
+Source Step = 22.7273%
+Source Step = 30.303%
+Source Step = 37.8788%
+vernier = 0.375
+Source Step = 48.8636%
+Source Step = 60.2273%
+Source Step = 71.5909%
+Source Step = 82.9545%
+Source Step = 89.9148%
+Source Step = 90.0169%
+Source Step = 90.0613%
+Source Step = 90.1056%
+Source Step = 90.15%
+Source Step = 90.1944%
+Source Step = 90.2388%
+vernier = 0.00219727
+Source Step = 90.2965%
+Source Step = 90.3631%
+Source Step = 90.4297%
+Source Step = 90.4963%
+Source Step = 90.5629%
+vernier = 0.0032959
+Source Step = 90.6461%
+Source Step = 90.746%
+Source Step = 90.8458%
+Source Step = 90.9457%
+Source Step = 91.0456%
+vernier = 0.00494385
+Source Step = 91.1654%
+Source Step = 91.3153%
+Source Step = 91.4651%
+Source Step = 91.6149%
+Source Step = 91.7647%
+vernier = 0.00741577
+Source Step = 91.937%
+Source Step = 92.1617%
+Source Step = 92.3864%
+Source Step = 92.6111%
+Source Step = 92.8359%
+vernier = 0.0111237
+Source Step = 93.0831%
+Source Step = 93.4201%
+Source Step = 93.7572%
+Source Step = 94.0943%
+Source Step = 94.4314%
+vernier = 0.0166855
+Source Step = 94.7853%
+Source Step = 95.2909%
+Source Step = 95.7966%
+Source Step = 96.3022%
+Source Step = 96.8078%
+Source Step = 97.3134%
+vernier = 0.0250282
+Source Step = 98.0718%
+Source Step = 98.8303%
+Source Step = 99.5887%
+Source stepping succeeded in finding the operating point.
+
+Changing Tseed to 9.76562e-10
+Total elapsed time: 0.953 seconds.
+
