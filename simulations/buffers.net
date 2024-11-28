@@ -1,0 +1,23 @@
+* E:\dev\Guitar Pedals\sonic-sandbox\simulations\buffers.asc
+C1 N003 N002 100n
+R1 N003 Vbias 1Meg
+XU3 N001 Vbias vcc 0 Vbias LMX58_LM2904
+V1 vcc 0 9
+R2 vcc N001 100k
+R3 N001 0 100k
+C2 N001 0 1µ
+C3 N001 0 100n
+V2 N002 0 SINE(0 20m 1k) AC 1 Rser=10k
+R4 FxInBuf 0 1Meg
+R5 N004 N005 1k
+R6 FxInBuf N004 10k
+C5 N005 0 10µ
+V4 vee 0 -9
+XU1 N003 N004 vcc 0 FxInBuf AD8666-2 AD8666-2
+.INCLUDE lmx58_lm2904.lib
+* .tran 10m
+.ac dec 100 10 30k
+* .noise V{FxInBuf} V2 dec 100 10 40k
+.lib AD8666-2.cir
+.backanno
+.end
