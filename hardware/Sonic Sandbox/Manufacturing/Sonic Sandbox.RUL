@@ -1,0 +1,13 @@
+DRC Rules Export File for PCB: E:\dev\Guitar Pedals\sonic-sandbox\hardware\Sonic Sandbox\Sonic Sandbox.PcbDoc
+RuleKind=Width|RuleName=MaxMinWidth_2|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Schematic Width Constraint_4|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Schematic Width Constraint_3|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Schematic Width Constraint_2|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Schematic Width Constraint_1|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Schematic Width Constraint|Scope=Board|Minimum=7.87
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_1|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=MaxMinWidth_1|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.57
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00

@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\dev\Guitar Pedals\sonic-sandbox\hardware\Sonic Sandbox\Sonic Sandbox.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=sonic sandbox-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=sonic sandbox-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=sonic sandbox-rectholes.txt|DrillLayers=gtl,gbl

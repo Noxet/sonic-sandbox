@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Sonic Sandbox.PcbDoc   2024-11-30  16:23:37
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Sonic Sandbox-RoundHoles.TXT
+ASCII SlotHoles File : Sonic Sandbox-SlotHoles.TXT
+ASCII RectHoles File : Sonic Sandbox-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.399mm)                                           Round             14        PTH        11.29inch (286.84mm)
+T2      24mil (0.599mm)                                           Round             3         PTH        3.70inch (93.88mm)
+T3      39mil (1.001mm)                                           Round             40        PTH        19.02inch (483.23mm)
+T4      39mil (1.001mm)                                           Slot              3         PTH        0.96inch (24.33mm)
+T5      43mil (1.1mm)                                             Round             12        PTH        2.34inch (59.53mm)
+T6      47mil (1.199mm)                                           Slot              9         PTH        3.46inch (87.76mm)
+T7      47mil (1.199mm)                                           Rectangle         8         PTH        5.47inch (138.86mm)
+T8      63mil (1.6mm)                                             Round             30        PTH        11.78inch (299.09mm)
+T9      76mil (1.941mm)                                           Round             4         PTH        1.69inch (42.99mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              123
+
+Total Processing Time (hh:mm:ss) : 00:00:00

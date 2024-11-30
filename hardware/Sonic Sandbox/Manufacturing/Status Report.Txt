@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Sonic Sandbox.PcbDoc]
+   Generated File[Sonic Sandbox-RoundHoles.TXT]
+   Generated File[Sonic Sandbox-SlotHoles.TXT]
+   Generated File[Sonic Sandbox-RectHoles.TXT]
+   Generated File[Sonic Sandbox.LDP]
+   Generated File[Sonic Sandbox.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 16:23:37 On 2024-11-30
