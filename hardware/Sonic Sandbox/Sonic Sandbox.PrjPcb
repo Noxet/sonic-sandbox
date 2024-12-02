@@ -102,12 +102,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=Sonic Sandbox.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Sonic Sandbox\Design Rule Check - Sonic Sandbox.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=.\Manufacturing\Sonic Sandbox-RectHoles.TXT
+DocumentPath=Manufacturing\Sonic Sandbox-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
@@ -115,7 +132,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox-Rect
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=.\Manufacturing\Sonic Sandbox-RoundHoles.TXT
+DocumentPath=Manufacturing\Sonic Sandbox-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
@@ -123,7 +140,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox-Roun
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=.\Manufacturing\Sonic Sandbox-SlotHoles.TXT
+DocumentPath=Manufacturing\Sonic Sandbox-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
@@ -131,7 +148,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox-Slot
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=.\Manufacturing\Sonic Sandbox.DRR
+DocumentPath=Manufacturing\Sonic Sandbox.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument9]
@@ -139,7 +156,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=.\Manufacturing\Sonic Sandbox.EXTREP
+DocumentPath=Manufacturing\Sonic Sandbox.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
@@ -147,7 +164,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.EXTR
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=.\Manufacturing\Sonic Sandbox.GBL
+DocumentPath=Manufacturing\Sonic Sandbox.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
@@ -155,7 +172,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=.\Manufacturing\Sonic Sandbox.GBO
+DocumentPath=Manufacturing\Sonic Sandbox.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
@@ -163,7 +180,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=.\Manufacturing\Sonic Sandbox.GBP
+DocumentPath=Manufacturing\Sonic Sandbox.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
@@ -171,7 +188,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=.\Manufacturing\Sonic Sandbox.GBS
+DocumentPath=Manufacturing\Sonic Sandbox.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
@@ -179,7 +196,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=.\Manufacturing\Sonic Sandbox.GKO
+DocumentPath=Manufacturing\Sonic Sandbox.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
@@ -187,7 +204,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=.\Manufacturing\Sonic Sandbox.GM
+DocumentPath=Manufacturing\Sonic Sandbox.GM
 DItemRevisionGUID=
 
 [GeneratedDocument23]
@@ -195,7 +212,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.GM
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=.\Manufacturing\Sonic Sandbox.GTL
+DocumentPath=Manufacturing\Sonic Sandbox.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
@@ -203,7 +220,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=.\Manufacturing\Sonic Sandbox.GTO
+DocumentPath=Manufacturing\Sonic Sandbox.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument27]
@@ -211,7 +228,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=.\Manufacturing\Sonic Sandbox.GTP
+DocumentPath=Manufacturing\Sonic Sandbox.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
@@ -219,7 +236,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=.\Manufacturing\Sonic Sandbox.GTS
+DocumentPath=Manufacturing\Sonic Sandbox.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument31]
@@ -227,7 +244,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=.\Manufacturing\Sonic Sandbox.LDP
+DocumentPath=Manufacturing\Sonic Sandbox.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
@@ -235,7 +252,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=.\Manufacturing\Sonic Sandbox.REP
+DocumentPath=Manufacturing\Sonic Sandbox.REP
 DItemRevisionGUID=
 
 [GeneratedDocument35]
@@ -243,7 +260,7 @@ DocumentPath=Project Outputs for Free Documents\Manufacturing\Sonic Sandbox.REP
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=.\Manufacturing\Sonic Sandbox.RUL
+DocumentPath=Manufacturing\Sonic Sandbox.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument37]
